@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.nudelsuppe42.iplbte.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.nudelsuppe42.iplbte.MyBundle
 
 class MyApplicationService {
 
